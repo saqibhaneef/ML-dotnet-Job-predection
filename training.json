@@ -1,162 +1,94 @@
 [
   {
-    "desc": "DMMP PTY LIMITED BRISBANE",
-    "category": "coffee & tea"
+    "desc": "Develops software applications for both client-side and server-side systems, working with various programming languages, frameworks, and databases.",
+    "category": "Full-stack Software Engineer"
   },
   {
-    "desc": "AMERICAN CONCEPTS PT BRISBANE",
-    "category": "coffee & tea"
+    "desc": "Designs and develops the back-end of software applications, which include databases, servers, APIs, and other back-end systems.",
+    "category": "Backend Software Engineer"
   },
   {
-    "desc": "IZOO EXPRESSO BRISBANE ADEL",
-    "category": "coffee & tea"
+    "desc": "Designs and develops the front-end of software applications, including the user interface, interactions, and user experience.",
+    "category": "Front-end Software Engineer"
   },
   {
-    "desc": "ANZ M-BANKING PAYMENT TRANSFER 628224 TO SPIRE REALITY",
-    "category": "rent"
+    "desc": "Develops software applications for mobile devices such as smartphones and tablets, using mobile-specific technologies such as iOS or Android.",
+    "category": "Mobile Software Engineer"
   },
   {
-    "desc": "O BRASILEIRO RESTAURAN BRISBANE CITY",
-    "category": "coffee & tea"
+    "desc": "Responsible for the development and maintenance of the infrastructure and tools used for software development and deployment, such as continuous integration and delivery systems.",
+    "category": "DevOps Engineer"
   },
   {
-    "desc": "THE BAGEL BOYS PTY L BRISBANE",
-    "category": "coffee & tea"
+    "desc": "Develops and maintains the infrastructure and systems that handle large volumes of data, including data storage, processing, and analysis.",
+    "category": "Data Engineer"
   },
   {
-    "desc": "ANZ M-BANKING PAYMENT TRANSFER 763489 TO SPIRE REALITY",
-    "category": "rent"
+    "desc": "Develops and maintains cloud-based systems, such as infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS).",
+    "category": "Cloud Engineer"
   },
   {
-    "desc": "ANZ M-BANKING PAYMENT TRANSFER 668043 TO SPIRE REALITY",
-    "category": "rent"
+    "desc": "Develops and implements security measures to protect software applications and systems from cyber threats, including hacking, malware, and other attacks.",
+    "category": "Security Engineer"
   },
   {
-    "desc": "IZOO EXPRESSO BRISBANE",
-    "category": "coffee & tea"
+    "desc": "Develops and implements machine learning algorithms and systems, including natural language processing, computer vision, and other artificial intelligence applications.",
+    "category": "Machine Learning Engineer"
   },
   {
-    "desc": "DASH JOLIMONT CANBERRA",
-    "category": "coffee & tea"
+    "desc": "Responsible for ensuring the quality of software applications through various testing methods and processes, including manual and automated testing, code reviews, and bug fixing",
+    "category": "QA Engineer"
   },
   {
-    "desc": "WOOLWORTHS 3909 MELBOURNE",
-    "category": "groceries"
+    "desc": "Develops software for embedded systems, which are computing systems that are integrated into other devices or equipment, such as cars, medical devices, or industrial machines.",
+    "category": "Embedded Software Engineer"
   },
   {
-    "desc": "SOUL ORIGIN QUEENSPLAZ BRISBANE",
-    "category": "coffee & tea"
+    "desc": "Develops video games, using programming languages and game development tools, such as Unity or Unreal Engine.",
+    "category": "Game Developer"
   },
   {
-    "desc": "CAFE LAGOONAS ON THE SOUTH BRISBAN",
-    "category": "coffee & tea"
+    "desc": "Designs the user interface and user experience of software applications, using principles of user-centered design and visual design.",
+    "category": "UI/UX Designer"
   },
   {
-    "desc": "SENS COFFEE CO ADELA BRISBANE",
-    "category": "coffee & tea"
+    "desc": "Maintains and manages the computer systems and servers that run software applications, including software installation, security updates, and backup and recovery.",
+    "category": "System Administrator"
   },
   {
-    "desc": "ANZ M-BANKING PAYMENT TRANSFER 492126 TO SPIRE REALITY",
-    "category": "rent"
+    "desc": "Oversees the development of software products, working with engineers, designers, and other stakeholders to define requirements, prioritize features, and manage the product roadmap.",
+    "category": "Product Manager"
   },
   {
-    "desc": "ANZ M-BANKING PAYMENT TRANSFER 542432 TO SPIRE REALITY",
-    "category": "rent"
+    "desc": "We are seeking a highly skilled software developer to design and develop software applications for our clients. The ideal candidate should have experience with programming languages such as Java or C++, and familiarity with software development methodologies such as Agile or Scrum.
+",
+    "category": "Software developer"
   },
   {
-    "desc": "VANTO SYDNEY",
-    "category": "coffee & tea"
+    "desc": "We are looking for a software developer with experience in Java or C++ to join our team. The ideal candidate should be able to design and develop software applications and have experience with Agile or Scrum methodologies.
+",
+    "category": "Software developer"
   },
   {
-    "desc": "ANZ M-BANKING PAYMENT TRANSFER 244136 TO SPIRE REALITY",
-    "category": "rent"
+    "desc": "We are seeking a software engineer to join our team and help develop new features for our mobile app. The ideal candidate has experience with Java and Swift, and is familiar with Agile methodologies.
+",
+    "category": "Software engineer"
   },
   {
-    "desc": "STARBUCKS MYER CENTRE BRISBANE",
-    "category": "coffee & tea"
+    "desc": "We are looking for a UX designer to create intuitive and engaging interfaces for our web and mobile applications. The ideal candidate has experience with user research, wireframing, and prototyping, and is familiar with design tools such as Sketch and Figma.
+",
+    "category": "UI/UX Designer"
   },
   {
-    "desc": "ANZ M-BANKING PAYMENT TRANSFER 953518 TO SPIRE REALITY",
-    "category": "rent"
+    "desc": " Building cleaner  m f d  with journeyman qualification Your tasks: You will work full-time in the area of  basic and special cleaning You will lead a squad in the job areas assigned to you, coordinate the processes on site and set a good example yourself You operate the company s own and rented machines for basic and special cleaning Your qualifications: You have completed training as a building cleaner  m f d You have a category B driver s license  car You have an orderly and structured way of working You have a good command of spoken and written German What she expects: A successful family business operating throughout Germany with a long tradition, your area of  operation is limited to the catchment area of  the Cottbus branch  max. 1 hour travel time to the order office Fair and punctual payment according to the collective agreement A permanent employment contract A good compatibility of family and work, you spend your free time at home - no assembly work State-of-the-art cleaning material and professional work clothing.",
+    "category": "Cleaner"
   },
   {
-    "desc": "WOOLWORTHS 1415 NEWCASTLE WES",
-    "category": "groceries"
+    "desc": " Cleaning staff  m f d Your tasks: They are in action in the district of Petershagen As a cleaner  m f d  you will work for different customers and in different objects They work in cleaning and take care of the environmentally friendly waste disposal and refill used materials Your qualifications: You are a career changer  m f d  or already have experience in building cleaning Among other things, you are characterized by your punctuality They have a friendly demeanor and a well-groomed appearance You have an orderly and structured way of working What she expects: A successful family business operating throughout Germany with a long tradition State-of-the-art cleaning material and professional work clothing Supervision by our property manager  m f d A pleasant working atmosphere.",
+    "category": "Cleaner"
   },
   {
-    "desc": "ANZ M-BANKING PAYMENT TRANSFER 546414 TO SPIRE REALITY",
-    "category": "rent"
+    "desc": " For our office we are looking for office assistants  m f d  for general office work at the earliest possible date. Job description: Your tasks will include order processing, supplier and customer support, telephone service, general office work, invoice verification, data entry and entry, correspondence. Job requirement:  Very good knowledge of German  Arabic as mother tongue or at least C1  Good knowledge of MS Office programs and e-mail, confident handling of computers and telephone  Ability to work independently  Your special skills include flexibility and a sense of responsibility. We look forward to receiving your application. We ask interested parties to send their application documents  curriculum vitae in tabular form, certificates  by e-mail or copies without folders by post.",
+    "category": "Administrator"
   },
-  {
-    "desc": "DEVON CAFE NORTH SYDNE NORTH SYDNEY",
-    "category": "coffee & tea"
-  },
-  {
-    "desc": "DOTNETFOUNDATION.ORG 4255388953 10.00 USD INC O/S FEE $0.42",
-    "category": "investment"
-  },
-  {
-    "desc": "DOTNETFOUNDATION.ORG 52434325324 10.00 USD INC O/S FEE $2.32",
-    "category": "investment"
-  },
-  {
-    "desc": "DOTNETFOUNDATION.ORG 12313 10.00 USD INC O/S FEE $0.41",
-    "category": "investment"
-  },
-  {
-    "desc": "DOTNETFOUNDATION.ORG 5465675632423 10.00 USD INC O/S FEE $0.98",
-    "category": "investment"
-  },
-  {
-    "desc": "DOTNETFOUNDATION.ORG 32464 10.00 USD INC O/S FEE $0.64",
-    "category": "investment"
-  },
-  {
-    "desc": "PAYPAL UBER AU 4029357733",
-    "category": "transport"
-  },
-  {
-    "desc": "THE HOYTS CORPORATIO STAFFORD",
-    "category": "entertainment"
-  },
-  {
-    "desc": "DBS Anytime Fitness",
-    "category": "health"
-  },
-  {
-    "desc": "EB PubConf Sydney 201 305-314-1520",
-    "category": "conference"
-  },
-  {
-    "desc": "ddd Brisbane",
-    "category": "conference"
-  },
-  {
-    "desc": "conference",
-    "category": "conference"
-  },
-  {
-    "desc": "DBS Anytime Fitness Brisbane",
-    "category": "health"
-  },
-  {
-    "desc": "ddd Sydney",
-    "category": "conference"
-  },
-  {
-    "desc": "ddd Adelaide",
-    "category": "conference"
-  },
-  {
-    "desc": "ddd Melbourne",
-    "category": "conference"
-  },
-  {
-    "desc": "PAYPAL UBER AU 434574521",
-    "category": "transport"
-  },
-  {
-    "desc": "EB PubConf Sydney 201 365-354-6520",
-    "category": "conference"
-  }
-]
+  ]

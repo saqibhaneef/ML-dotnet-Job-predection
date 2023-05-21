@@ -1,0 +1,66 @@
+﻿@page "/"
+@using ML.JobPrediction.Core
+@using ML.JobPrediction.Core.Models
+@inject JobPredictionLabelService labelService
+
+<h1>Predict bank transaction category</h1>
+
+<EditForm Model="@transaction">
+    <div>
+        <label>Bank transaction description:</label>
+        <input type="text" @bind-value="@transaction.Description" style="min-width: 300px;" />
+        <button class="btn btn-primary" @onclick="Predict">Predict</button>
+    </div>
+
+
+    @if (prediction != null)
+    {
+    <div style="margin-top: 20px;">
+        <h4>Predictions</h4>
+
+        <p><b>@description</b> - @prediction.Category</p>
+        <table>
+            @for (int i = 0; i < prediction.Score.Length; ++i)
+            {
+                var predictionScore = prediction.Score[i];
+            <tr>
+                <th style="background-color: rgba(0, 255, 0, @predictionScore);">@categories[i]</th>
+                <td style="background-color: rgba(0, 255, 0, @predictionScore); padding-left: 20px;">@(Math.Round(predictionScore, 2) * 100) %</td>
+            </tr>
+            }
+        </table>
+    </div>
+    }
+
+    <div style="margin-top: 20px;">
+        <h4>Examples of predictions</h4>
+        <ul>
+            <li>DotNetFoundation.org - investment</li>
+            <li>Coffee - coffee & tea</li>
+            <li>Fitness - health</li>
+            <li>Uber - transport</li>
+            <li>PubConf - conference</li>
+        </ul>
+    </div>
+</EditForm>
+
+@code {
+    string description = "";
+    JobPredictionModel prediction = null;
+    List<string> categories = null;
+    Job transaction = new Job
+    {
+        Description = "",
+    };
+
+    void Predict()
+    {
+        description = transaction.Description;
+        prediction = labelService.Predict(transaction);
+
+        if (categories == null)
+        {
+            categories = labelService.GetCategories();
+        }
+    }
+}

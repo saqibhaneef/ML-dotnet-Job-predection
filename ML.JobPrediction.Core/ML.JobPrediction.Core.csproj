@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\training.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Data\training.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ChoETL" Version="1.2.1.58" />
+    <PackageReference Include="Microsoft.ML" Version="2.0.0" />
+    <PackageReference Include="Microsoft.ML.AutoML" Version="0.20.0" />
+	<PackageReference Include="Microsoft.Extensions.ML" Version="2.0.0" />
+  </ItemGroup>
+
+</Project>
