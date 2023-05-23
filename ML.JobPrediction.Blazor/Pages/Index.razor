@@ -3,11 +3,11 @@
 @using ML.JobPrediction.Core.Models
 @inject JobPredictionLabelService labelService
 
-<h1>Predict bank transaction category</h1>
+<h1>Predict job description category</h1>
 
 <EditForm Model="@transaction">
     <div>
-        <label>Bank transaction description:</label>
+        <label>Enter job description:</label>
         <input type="text" @bind-value="@transaction.Description" style="min-width: 300px;" />
         <button class="btn btn-primary" @onclick="Predict">Predict</button>
     </div>
@@ -19,7 +19,7 @@
         <h4>Predictions</h4>
 
         <p><b>@description</b> - @prediction.Category</p>
-        <table>
+        <table class="table table-bordered">
             @for (int i = 0; i < prediction.Score.Length; ++i)
             {
                 var predictionScore = prediction.Score[i];
@@ -32,16 +32,6 @@
     </div>
     }
 
-    <div style="margin-top: 20px;">
-        <h4>Examples of predictions</h4>
-        <ul>
-            <li>DotNetFoundation.org - investment</li>
-            <li>Coffee - coffee & tea</li>
-            <li>Fitness - health</li>
-            <li>Uber - transport</li>
-            <li>PubConf - conference</li>
-        </ul>
-    </div>
 </EditForm>
 
 @code {
